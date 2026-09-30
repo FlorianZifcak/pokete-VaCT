@@ -1473,6 +1473,32 @@ W         W""",
     ''""",
             "esc": None}]
     },
+    "Kingler": {
+        "name": "Kingler",
+        "hp": 30,
+        "atc": 8,
+        "defense": 9,
+        "attacks": ["shell_pinch", "bubble_gun", "wet_slap", "power_bite"],
+        "pool": [],
+        "miss_chance": 0,
+        "desc": "Giant crab pokete with one huge crushing claw.",
+        "lose_xp": 5,
+        "rarity": 0.2,
+        "types": ["water", "normal"],
+        "evolve_poke": "",
+        "evolve_lvl": 0,
+        "initiative": 3,
+        "ico": [{
+            "txt": r"""
+    \.-oo-.
+    (_____)
+    ^^   ^^""",
+            "esc": None}, {
+            "txt": r""" /\_
+{  }
+ \/""",
+            "esc": ["red"]}]
+    },
 }
 
 if __name__ == "__main__":
